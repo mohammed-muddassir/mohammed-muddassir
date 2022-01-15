@@ -3,11 +3,12 @@
 <h3 align="center" style="background-color:#215732;color:#e2d1bc;height:2rem;display:flex;align-items:center;justify-content:center";>Full Stack Developer (MERN)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-muddassir&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-muddassir" /> </p>
+<img   width="150" alt="GIF" align="right" style="margin:20px" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47szesay1s52mwyh0gt7ssz0lapy328vcavtcsiyv2&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on [Video Chat Application](https://mohammed-muddassir.netlify.app/)
 
 - 🌱 I’m currently learning **Algorithms,Back End Dev,Go**
-<img   width="250" alt="GIF" align="right" style="margin:20px" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47szesay1s52mwyh0gt7ssz0lapy328vcavtcsiyv2&rid=giphy.gif&ct=g">
+
 <!-- <iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="">via GIPHY</a></p> -->
 
 - 👯 I’m looking to collaborate on **Open source projects**
@@ -42,4 +43,5 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-muddassir&" alt="mohammed-muddassir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-muddassir&" alt="mohammed-muddassir"  /></p>
