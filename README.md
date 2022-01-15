@@ -19,7 +19,6 @@
 
 - 📫 You can reach me on : **muddassirmud15@gmail.com**
 
-- ⚡ Fun fact **Saitama can beat GoKu 💥💥**
 
 - 💻 In my free time I configure my Linux Desktop 🐧
 
